@@ -1,5 +1,3 @@
-opencv-python-headless
 plotly
 mediapipe
 streamlit
-
