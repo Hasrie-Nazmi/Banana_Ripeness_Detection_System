@@ -1,4 +1,4 @@
 plotly
 mediapipe
-cv2
+opencv
 streamlit
