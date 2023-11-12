@@ -1,10 +1,10 @@
-import cv2
+# import cv2
 import streamlit as st
 import plotly.graph_objects as go
 import numpy as np
-import mediapipe as mp
-from mediapipe.tasks import python
-from mediapipe.tasks.python import vision
+# import mediapipe as mp
+# from mediapipe.tasks import python
+# from mediapipe.tasks.python import vision
 
 
 def dashboard():
