@@ -1,2 +1,4 @@
 plotly
 mediapipe
+cv2
+streamlit
